@@ -8,3 +8,5 @@ The design is based on https://www.thingiverse.com/thing:3475445
 Many thanks to the user Taumelscheibe
 
 ![image](assembly.png)
+
+![image](assembly.gif)
