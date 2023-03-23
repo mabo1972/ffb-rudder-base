@@ -1,4 +1,4 @@
-# VPForceKit ffb-rudder-base WIP
+# VPForceKit ffb-rudder-base for a simrig WIP
 Rudder Base for Walmis VPForce Kit
 
 This project contains CAD files necessary for the mechanical assembly of a rudder base of the VPForce kit
